@@ -7,7 +7,8 @@ import java.awt.event.KeyEvent;
 import Main.GamePanel;
 
 public class Player extends GameObject {
-
+	//blablabla
+	//this is my second commit
 	public final int WIDTH = 40;
 	public  final int HEIGHT = 40;
 	private final int UPKEY = KeyEvent.VK_UP;
